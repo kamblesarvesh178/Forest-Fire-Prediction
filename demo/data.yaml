@@ -1,0 +1,12 @@
+names:
+- '0'
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: ffd-sbgx0
+  url: https://universe.roboflow.com/forest-fire-ryyfx/ffd-sbgx0/dataset/1
+  version: 1
+  workspace: forest-fire-ryyfx
+test: ../test/images
+train: ffd---1/train/images
+val: ffd---1/valid/images
